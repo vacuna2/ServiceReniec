@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ServiceReniec\ClienteConsola\obj\Debug\ClienteConsola.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ServiceReniec\ClienteConsola\obj\Debug\ClienteConsola.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ServiceReniec\ClienteConsola\bin\Debug\ClienteConsola.exe.config
+C:\Users\user\source\repos\ServiceReniec\ClienteConsola\bin\Debug\ClienteConsola.exe
+C:\Users\user\source\repos\ServiceReniec\ClienteConsola\bin\Debug\ClienteConsola.pdb
+C:\Users\user\source\repos\ServiceReniec\ClienteConsola\obj\Debug\ClienteConsola.exe
+C:\Users\user\source\repos\ServiceReniec\ClienteConsola\obj\Debug\ClienteConsola.pdb
